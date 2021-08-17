@@ -1,0 +1,53 @@
+HTTrack3.49-2 launched on Mon, 16 Aug 2021 21:17:53 at derpal.com.pl
+(httrack derpal.com.pl )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:19:35	Error: 	"NOT FOUND" (404) at link derpal.com.pl/site_media/js/site/jquery-1.8.0.min.js (from derpal.com.pl/)
+21:59:11	Error: 	"NOT FOUND" (404) at link derpal.com.pl/pl/drzwi-wewnetrzne/1,-3,7,3 (from derpal.com.pl/)
+21:59:11	Error: 	"NOT FOUND" (404) at link derpal.com.pl/pl/drzwi-zewnetrzne-drewniane/1,-1,7,3 (from derpal.com.pl/)
+21:59:11	Error: 	"NOT FOUND" (404) at link derpal.com.pl/pl/drzwi-zewnetrzne-plytowe/1,-2,7,3 (from derpal.com.pl/)
+21:59:11	Error: 	"NOT FOUND" (404) at link derpal.com.pl/pl/kontakt/dane-firmowe/kontakt-kontakt/0,-1,6,14 (from derpal.com.pl/pl/polityka-prywatnosci-serwisu-derpalcompl/0,-5a,1)
+21:59:31	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/2/
+21:59:31	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/2
+21:59:32	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/3/
+21:59:32	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/3
+21:59:33	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/4/
+21:59:33	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/pl/aktualnosci/0,-1,2,4/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/4
+22:09:53	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/2/
+22:09:53	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/2
+22:09:54	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/3/
+22:09:54	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/3
+22:09:55	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/4/
+22:09:55	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/ktualnosci/0,-1,2/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/4
+22:32:40	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/3/
+22:32:40	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/3
+22:32:40	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/4/
+22:32:40	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/4
+22:32:45	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/2/
+22:32:45	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/2
+22:32:51	Error: 	"NOT FOUND" (404) at link derpal.com.pl/pl/oferta/drzwi-zewnetrzne-drewniane/1,-1,7,3 (from derpal.com.pl/pl/aktualnosci/0,-1,2,4/4)
+22:48:09	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/3/
+22:48:09	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/3
+22:48:09	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/4/
+22:48:09	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/4
+22:48:19	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/2/
+22:48:19	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/2
+22:48:23	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/2/
+22:48:23	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/2
+22:48:23	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/3/
+22:48:23	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/3
+22:48:23	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/4/
+22:48:23	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2,4/pl/aktualnosci/0,-1,2,4/1/pl/aktualnosci/0,-1,2,4/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2,4/4
+22:51:37	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/2/
+22:51:37	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/2/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/2
+22:51:37	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/3/
+22:51:37	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/3/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/3
+22:51:37	Warning: 	FOUND for derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/4/
+22:51:37	Warning: 	File has moved from derpal.com.pl/pl/aktualnosci/0,-1,2/ktualnosci/0,-1,2/1/ktualnosci/0,-1,2/4/ to http://derpal.com.pl/pl/aktualnosci/0,-1,2/4
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 36 minutes 8 seconds : 1454 links scanned, 1429 files written (89002164 bytes overall) [83747942 bytes received at 14519 bytes/sec], 8388768 bytes transferred using HTTP compression in 419 files, ratio 30%, 10.1 requests per connection
+(6 errors, 36 warnings, 0 messages)

@@ -1,0 +1,155 @@
+/* ***************************** RESET ************************************ */
+
+body {
+	margin: 0;
+	padding: 0; }
+   
+a img {
+	border: 0; }
+	
+fieldset {
+	padding: 0;
+	border: none; }
+	
+textarea {
+	resize: none; }
+
+
+/* ***************************** KLASY-SZABLONY ************************************ */
+
+.underhover {
+	text-decoration: none; }
+	.underhover:hover {
+		text-decoration: underline; }
+		
+.plainlist {
+	list-style-type: none;
+	margin: 0;
+	padding: 0; }
+
+.clear {
+	clear: both; }
+	
+.px950 {
+	width: 950px;
+	margin: 0 auto; }
+
+
+/* ***************************** WERSJE JĘZYKOWE - FLAGI ************************************ */   
+/* Ikony flag zaczerpnięte z www.softicons.com/free-icons/web-icons/flag-iso-icons-by-icondrawer */
+
+#lang_box ul li {
+	display: inline-block; }
+#lang_box form input[type="submit"] {
+	display: block;
+	height: 16px;
+	width: 16px;
+	opacity: 0.5; 
+	border: none; 
+	cursor: pointer; }
+
+#lang_box .plForm input[type="submit"] { background: url('../images/site/pl.png'); }   
+#lang_box .ruForm input[type="submit"] { background: url('../images/site/ru.png'); }   
+#lang_box .enForm input[type="submit"] { background: url('../images/site/en.png'); }
+#lang_box .deForm input[type="submit"] { background: url('../images/site/de.png'); }
+#lang_box .esForm input[type="submit"] { background: url('../images/site/es.png'); }
+
+#lang_box form input[type="submit"].plOn,
+#lang_box form input[type="submit"].ruOn,
+#lang_box form input[type="submit"].enOn,
+#lang_box form input[type="submit"].deOn,
+#lang_box form input[type="submit"].esOn { 
+	opacity: 1;}
+
+   
+/* ***************************** ROZWIJANE MAIN MENU ************************************ */   
+   
+.dropdown,
+.dropdown *	{
+	list-style:none;
+	margin:0;
+	padding:0;
+	position:relative;
+	display:block; }
+
+.dropdown > li,
+.dropdown > li > a {
+	float:left;
+	position:relative; }
+
+.dropdown > li > ul {
+	margin-left:-9999px;
+	position:absolute;
+	top:100%;
+	left:0;
+	transition:opacity 0.3s linear;
+	opacity:0; }
+
+.dropdown > li > ul li > ul {
+	margin-left:-9999px;
+	position:absolute;
+	top:0;
+	left:100%;
+	transition:opacity 0.3s linear;
+	opacity:0; }
+
+.dropdown li:hover > ul {
+	margin-left:0;
+	opacity:1; }
+
+/* ***************************** UKŁADY ZDJĘĆ W ARTYKUŁACH ************************************ */  
+
+.articleImagesRight { 
+  float: right;
+  margin-left: 20px;
+  width: 200px;
+  margin-top: 2px; }
+  .articleImagesRight.verticalImage {
+  width: 150px;}
+  .articleImagesRight img {
+    margin-bottom: 10px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #e2e2e2; }
+
+.articleImagesLeft { 
+  float: left;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 2px; }
+  .articleImagesLeft.verticalImage {
+  width: 150px;}
+  .articleImagesLeft img {
+    margin-bottom: 10px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #e2e2e2; }
+
+.articleImagesBottom {
+  width: 100%;
+  margin: 15px 0;
+  text-align: center;
+  margin-top: 2px; }
+  .articleImagesBottom img {
+    margin-right: 10px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #e2e2e2; }
+
+.articleImagesTop {
+  width: 100%;
+  margin: 0 0 15px 0;
+  text-align: center;
+  margin-top: 2px; }
+  .articleImagesTop img {
+    margin-right: 10px;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #e2e2e2; }
+
+.articleImagesBottomWide, .articleImagesTopWide {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  margin-top: 2px; }
+  .articleImagesBottomWide img, .articleImagesTopWide img {
+    margin: 0 auto 10px auto;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #e2e2e2; }
+
